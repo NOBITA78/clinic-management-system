@@ -41,6 +41,7 @@ The **Clinic Management System** is a web-based application designed to manage p
 
 ## Project Structure
 📁 clinic-management-system
+
 ├── index.html 
 ├── 404.html
 ├── receptionist.html 
