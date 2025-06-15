@@ -43,11 +43,17 @@ The **Clinic Management System** is a web-based application designed to manage p
 📁 clinic-management-system
 
 ├── index.html 
+
 ├── 404.html
+
 ├── receptionist.html 
+
 ├── doctor.html 
+
 ├── billing.html 
+
 ├── patient.html 
+
 📁 css
 ├── style.css 
 📁 Javascript
