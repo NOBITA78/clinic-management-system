@@ -55,20 +55,35 @@ The **Clinic Management System** is a web-based application designed to manage p
 ├── patient.html 
 
 📁 css
+
 ├── style.css 
+
 📁 Javascript
+
 ├── firebase-config.js 
+
 ├── auth.js 
+
 ├── receptionist.js 
+
 ├── doctor.js 
+
 ├── billing.js 
+
 ├── patient.js 
+
 └── logger.js 
+
 📁 .firebase
+
 ├── hosting.cache
+
 ├── .gitignore
+
 ├── firebase.json
+
 ├──.firebaserc
+
 ├──README.md
 
 ---
