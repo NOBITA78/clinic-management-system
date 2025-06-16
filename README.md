@@ -25,10 +25,10 @@ The **Clinic Management System** is a web-based application designed to manage p
 ## Login Credentials
 - **Doctor Login:**
   - Username: `doctor`
-  - Password: `doctor123`
+  - Password: `DOCTORd456`
 - **Receptionist Login:**
   - Username: `receptionist`
-  - Password: `reception123`
+  - Password: `RECEPTIONr456`
 
 ---
 
